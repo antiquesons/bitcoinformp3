@@ -36,7 +36,7 @@ session_start();
     <!-- mp3 player container end -->
 </p>
 <p>If you liked this song sample you can download it now from our website for only $0.25</p>
-<p><a href="payment.php">Pay with Bitcoin</a></p>
+<p><a href="log_user.php">Pay with Bitcoin</a></p>
 <br>
 <br>
 <p>Don't have Bitcoin? You can get some right now at <a href="http://www.circle.com" target="_blank">www.circle.com</a>
